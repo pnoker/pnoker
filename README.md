@@ -1,6 +1,15 @@
 ![](./pnoker-1.png)
 
----
+<div style="
+width: 100%;
+height: 2px;
+background: linear-gradient(90deg, #2E8B57 25%, #ffffff 50%, #20B2AA 75%);
+background-size: 200% 100%;
+animation: glowing 2s infinite linear;
+"></div>
+
+| ![](https://github-readme-stats.vercel.app/api?username=pnoker&hide_border=true&show_icons=true&theme=transparent&custom_title=GitHub+Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pnoker&hide_border=true&show_icons=true&theme=transparent&custom_title=Used+Languages&layout=compact&langs_count=8) |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -134,7 +143,15 @@
       height="40"
     />
 
-| ![](https://github-readme-stats.vercel.app/api?username=pnoker&hide_border=true&show_icons=true&theme=transparent&custom_title=GitHub+Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pnoker&hide_border=true&show_icons=true&theme=transparent&custom_title=Used+Languages&layout=compact&langs_count=8) |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 ![](https://raw.githubusercontent.com/pnoker/pnoker/output/github-contribution-grid-snake.svg)
+
+<style>
+@keyframes glowing {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+</style>
