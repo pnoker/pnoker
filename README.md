@@ -50,9 +50,6 @@
       width="40"
       height="40"
     />
-
----
-
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
       alt="mysql"
@@ -83,9 +80,7 @@
       height="40"
     />
 <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver
-/microsoftsqlserver
--original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
       alt="microsoftsqlserver"
       width="40"
       height="40"
@@ -102,9 +97,6 @@
       width="40"
       height="40"
     />
-
----
-
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"
       alt="jetbrains"
