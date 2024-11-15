@@ -1,11 +1,11 @@
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="1">
-
 ![](./pnoker-1.png)
 
 | ![](https://github-readme-stats.vercel.app/api?username=pnoker&hide_border=true&show_icons=true&theme=transparent&custom_title=GitHub+Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pnoker&hide_border=true&show_icons=true&theme=transparent&custom_title=Used+Languages&layout=compact&langs_count=8) |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ![](https://raw.githubusercontent.com/pnoker/pnoker/output/github-contribution-grid-snake.svg)
+
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="2">
 
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
