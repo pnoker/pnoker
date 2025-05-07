@@ -114,3 +114,58 @@
       alt="oracle"
       width="40"
       height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"/>
