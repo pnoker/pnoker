@@ -138,8 +138,18 @@
       width="40"
       height="40"/>
 <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"
+      alt="centos"
+      width="40"
+      height="40"/>
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"
       alt="apache kafka"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"
+      alt="rabbitmq"
       width="40"
       height="40"/>
 <img
@@ -154,6 +164,11 @@
       height="40"/>
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"
+      alt="jetbrains"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
       alt="jetbrains"
       width="40"
       height="40"/>
