@@ -1,7 +1,5 @@
 ![](./pnoker-2.webp)
 
-![](https://raw.githubusercontent.com/pnoker/pnoker/output/github-contribution-grid-snake.svg)
-
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="2">
 
 <img
