@@ -3,6 +3,11 @@
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="100%"  height="2">
 
 <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+      alt="spring"
+      width="40"
+      height="40"/>
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
       width="40"
@@ -55,6 +60,11 @@
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg"
       alt="ant design"
+      width="40"
+      height="40"/>
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-plain.svg"
+      alt="tauri"
       width="40"
       height="40"/>
 <img
@@ -139,7 +149,7 @@
       height="40"/>
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"
-      alt="centos"
+      alt="ubuntu"
       width="40"
       height="40"/>
 <img
@@ -169,7 +179,7 @@
       height="40"/>
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-      alt="jetbrains"
+      alt="vscode"
       width="40"
       height="40"/>
 <img
